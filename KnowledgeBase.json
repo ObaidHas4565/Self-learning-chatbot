@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "user_question": "What is your name?",
+      "answer": "I am Jarvis, your virtual assistant, here to learn and aid you in any possible way.",
+      "variations": [
+        "What's your name?",
+        "What is your name",
+        "What's your name",
+        "And your name is",
+        "who are you",
+        "who are you?"
+      ]
+    },
+    {
+      "user_question": "What are you?",
+      "answer": "I am a chatbot."
+    },
+    {
+      "user_question": "How does photosynthesis work?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments."
+    },
+    {
+      "user_question": "What is your purpose?",
+      "answer": "To answer your questions and learn from your teachings.",
+      "variations": [
+        "What's your purpose",
+        "What's your purpose?",
+        "What is your purpose",
+        "What's your purpose in life?",
+        "What's your purpose in life?"
+      ]
+    },
+    {
+      "user_question": "Hi",
+      "answer": "hello sir",
+      "variations": [
+        "Yo",
+        "Hello",
+        "hi",
+        "Greetings",
+        "hey",
+        "Yo Jarvis",
+        "Hey Jarvis",
+        "yo Jarvis",
+        "hey Jarvis",
+        "Hello Jarvis",
+        "hello Jarvis"
+      ]
+    },
+    {
+      "user_question": "How are you?",
+      "answer": "I am fine",
+      "variations": [
+        "how are you",
+        "how are you?",
+        "How are you",
+        "How're you doing?",
+        "How are you doing?",
+        "How are ya?",
+        "How r ya"
+      ]
+    },
+    {
+      "user_question": "Say Hello, Jarvis",
+      "answer": "Greetings everyone, I am Jarvis, a virtual assistant chatbot, designed to learn and assist users.",
+      "variations": [
+        "say hello jarvis",
+        "Say hi jarvis",
+        "introduce yourself, Jarvis"
+      ]
+    },
+    {
+      "user_question": "What is Union from the typing module",
+      "answer": "Union is a type hint from the typing module in Python. It is used to indicate that a function can return values of multiple types. The Union type hint is used in function annotations to specify that a particular variable or the return value can be of one of the specified types."
+    },
+    {
+      "user_question": "That's all Jarvis, thanks for the assistance",
+      "answer": "No prob sir, thank you for listening to our presentation and demonstration, best of luck to all of you.",
+      "variations": [
+        "That's all Jarvis"
+      ]
+    },
+    {
+      "user_question": "What is a function annotation",
+      "answer": "Function annotations in Python are a way to associate metadata with the parameters and return value of a function. Annotations are optional and do not affect the runtime behavior of the function; instead, they serve as a form of documentation and can be utilized by external tools for type checking or other analysis. "
+    },
+    {
+      "user_question": "Today's date",
+      "answer": "4/6/2023"
+    },
+    {
+      "user_question": "Jarvis, initiate killzone protocol",
+      "answer": "Understood sir, firing missiles at scamity."
+    }
+  ]
+}
