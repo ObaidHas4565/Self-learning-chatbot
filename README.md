@@ -3,9 +3,9 @@ A chatbot that learns from user interactions by dynamically updating its knowled
 
 ## Files 
 
-Jarvis.py — main chatbot script
+• Jarvis.py — main chatbot script
 
-KnowledgeBase.json — stored questions, variations and answers
+• KnowledgeBase.json — stored questions, variations and answers
 
 ## How it works
 
