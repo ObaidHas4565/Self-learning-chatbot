@@ -18,11 +18,11 @@ A chatbot that learns from user interactions by dynamically updating its knowled
 4. If not, Jarvis prompts you to teach it; a user-provided answer (not skip) is appended to the JSON and saved.
 
 ## Quick start (PyCharm)
-1. Open the project folder in Pycharm
+1. Open the project folder in Pycharm.
 
 2. Right-click on Jarvis.py and click run.
 
-3. Interact in the Run console. Type quit to exit the program
+3. Interact in the Run console. Type quit to exit the program.
 
 ## Notes & limitations
  • Simple fuzzy matching — suitable for small datasets; not a full NLP solution.
