@@ -42,17 +42,18 @@ def chatbot():
                     print(f"Jarvis: {answer}")
                     found_variation = True
             if not found_variation:
-                print("I don't know the answer, can you teach me sir?")
+                print("I don’t know the answer yet. Would you mind teaching me?")
                 new_answer: str = input('Type the answer or "skip" to skip:')
                 if new_answer.lower() != 'skip':
                     knowledge_base["questions"].append({"user_question": user_input, "answer": new_answer})
                     save_knowledge_base("KnowledgeBase.json", knowledge_base)
-                    print("Thank you sir, adding the new data to my memory banks.")
+                    print("Thank you, I am adding the data to my memory bank.")
                 else:
-                    print("Understood sir, tell me when you have free time, in the meantime ask me any other questions.")
+                    print("Understood, tell me when you have free time, in the meantime ask me any other questions.")
 
 if __name__ == "__main__":
     chatbot()
+
 
 
 
