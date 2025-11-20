@@ -85,11 +85,8 @@
       "user_question": "What is a function annotation",
       "answer": "Function annotations in Python are a way to associate metadata with the parameters and return value of a function. Annotations are optional and do not affect the runtime behavior of the function; instead, they serve as a form of documentation and can be utilized by external tools for type checking or other analysis. "
     },
-    {
-      "user_question": "Today's date",
-      "answer": "4/6/2023"
-    },
     
   ]
 
 }
+
